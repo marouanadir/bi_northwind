@@ -1,0 +1,11 @@
+# Ignorer les vidéos lourdes
+video/*.mp4
+video/*.avi
+video/*.mov
+
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer fichiers Python compilés
+__pycache__/
+*.pyc
